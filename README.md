@@ -1,10 +1,8 @@
-# Docker Pi-Hole
+# Docker Pi-Hole for ARMv7
 
 A Docker container built on Debian to run pi-hole ad filter
 
-GitHub repository: [https://github.com/lp-lab/dockerPiHole](https://github.com/lp-lab/dockerPiHole)
-
-Issues reports: [https://github.com/lp-lab/dockerPiHole/issues](https://github.com/lp-lab/dockerPiHole/issues)
+Original x86 GitHub repository: [https://github.com/lp-lab/dockerPiHole](https://github.com/lp-lab/dockerPiHole)
 
 ## Environment variables
 
